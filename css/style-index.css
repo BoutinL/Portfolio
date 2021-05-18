@@ -37,3 +37,45 @@
   width : 400px;
   width: 22rem;
 }
+
+h1{
+  text-align:center;
+  background:linear-gradient (
+  #fff 0%,
+  #fff 45%,
+  #696969 46%,
+  #696969 54%,  
+  #fff 54%,
+  #fff 100%);
+  background:-webkit-linear-gradient(
+  #fff 0%,
+  #fff 45%,
+  #696969 46%,
+  #696969 54%,  
+  #fff 54%,
+  #fff 100%);
+  background:    -moz-linear-gradient(
+  #fff 0%,
+  #fff 45%,
+  #696969 46%,
+  #696969 54%,  
+  #fff 54%,
+  #fff 100%);
+  background:     -ms-linear-gradient(
+  #fff 0%,
+  #fff 45%,
+  #696969 46%,
+  #696969 54%,  
+  #fff 54%,
+  #fff 100%);
+  background:      -o-linear-gradient(
+  #fff 0%,
+  #fff 45%,
+  #696969 46%,
+  #696969 54%,  
+  #fff 54%,
+  #fff 100%);
+  }
+  h1 span{
+  background:#fff;padding:0 20px;
+  }
