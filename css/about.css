@@ -2,11 +2,12 @@
 
 #about {
     background-color: #eef0f4;
+
 }
 
 #about {
     padding: 70px 5;
-    max-width: 1500px;
+    max-width: 100%;
     margin: 0 auto;
     display: flex;
     flex-direction: row;
@@ -16,14 +17,25 @@
     font-size: 3em;
     color: #2a2a2a;
     margin-bottom: 25px;
+    
 }
-
 
 .inline{
     display: inline-block;
     justify-content: center;
     align-items: center;
+
 }
+
 h6.inline{
-    margin: 0 10px;
+    margin: 10px;
+    
 }
+
+.center1 {
+
+    display: inline;
+    display: flex; 
+    justify-content: center;
+  
+    } 
